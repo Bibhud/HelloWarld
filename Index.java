@@ -1,4 +1,4 @@
-public class Hello{
+public class Index{
 
 	public static void main(String[] arg){
 
